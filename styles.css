@@ -246,6 +246,14 @@ main{
     margin-bottom: 30px;
 }
 
+.meeting-container{
+    width: 100%;
+    height: fit-content;
+    background-color: #cbcaca;
+    padding: 5px 10px;
+    border-radius: 12px;
+    /* display: flex; */
+}
 
 /* ------- research areas --------*/
 
